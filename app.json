@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "appLivraria",
+    "slug": "appLivraria",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "appLivraria"
+}
